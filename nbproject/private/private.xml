@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/xamp/htdocs/hrms/resources/views/staff/employee-edit-form.blade.php</file>
+            <file>file:/D:/xamp/htdocs/hrms/resources/views/staff/profile.blade.php</file>
+            <file>file:/D:/xamp/htdocs/hrms/app/Http/Controllers/Staff/StaffController.php</file>
+            <file>file:/D:/xamp/htdocs/hrms/resources/views/staff/role-privilages.blade.php</file>
+            <file>file:/D:/xamp/htdocs/hrms/app/Http/Controllers/Staff/employeeController.php</file>
+            <file>file:/D:/xamp/htdocs/hrms/public/user/userscript.js</file>
+            <file>file:/D:/xamp/htdocs/hrms/resources/views/staff/employees-last-login.blade.php</file>
+            <file>file:/D:/xamp/htdocs/hrms/routes/web.php</file>
+            <file>file:/D:/xamp/htdocs/hrms/resources/views/staff/employees-exit.blade.php</file>
+            <file>file:/D:/xamp/htdocs/hrms/app/Http/Controllers/Controller.php</file>
+            <file>file:/D:/xamp/htdocs/hrms/app/Http/Controllers/Staff/roleController.php</file>
+            <file>file:/D:/xamp/htdocs/hrms/resources/views/layout/app.blade.php</file>
+            <file>file:/D:/xamp/htdocs/hrms/resources/views/staff/expired-documents.blade.php</file>
+            <file>file:/D:/xamp/htdocs/hrms/resources/views/staff/employees.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
